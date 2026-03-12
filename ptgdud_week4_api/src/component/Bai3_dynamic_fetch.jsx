@@ -5,6 +5,8 @@ function Bai3_dynamic_fetch() {
     const [idFind, setIdFind] = useState('1');
     const [error, setError] = useState(null)
     useEffect(() => {
+        N`   `
+
 
 
         async function fetchId() {
